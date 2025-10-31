@@ -17,7 +17,7 @@
   <img align="center" alt="CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<!-- [Snake Animation] # Termianr a animação da cobrinha! (https://www.youtube.com/watch?v=TsaLQAetPLU) -->
+<!-- [Snake Animation] # Termianr a animação da cobrinha! (https://www.youtube.com/watch?v=TsaLQAetPLU) e (https://chatgpt.com/s/t_6904bb72487081919f4958cf30826bc1) -->
 
 ---
 
