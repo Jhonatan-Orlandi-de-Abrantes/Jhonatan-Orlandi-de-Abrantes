@@ -1,14 +1,41 @@
-## Bem vindo ao meu perfil! ;) 👋
+## Bem-vindo ao meu GitHub! 👋
 
-<div style="display: inline_block"><br>
+<div align="center">
+  <a href="https://github.com/Jhonatan-Orlandi-de-Abrantes">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhonatan-Orlandi-de-Abrantes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatan-Orlandi-de-Abrantes&layout=compact&langs_count=8&theme=dracula"/>
+  </a>
+</div>
+
+---
+
+### Linguagens
+
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML"height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:jhonatanorlandiabrantes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://br.linkedin.com/in/jhonatan-orlandi-de-abrantes-83b10a360?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<!-- [Snake Animation] # Termianr a animação da cobrinha! (https://www.youtube.com/watch?v=TsaLQAetPLU) -->
+
+---
+
+### 📫 Contato
+
+<div align="center">
+  <a href="mailto:jhonatanorlandi@gmail.com" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://br.linkedin.com/in/jhonatan-orlandi-de-abrantes-83b10a360" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 </div>
