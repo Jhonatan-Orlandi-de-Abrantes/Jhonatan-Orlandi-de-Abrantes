@@ -22,7 +22,7 @@
 ---
 
 
-![Snake animation](https://github.com/Jhonatan-Orlandi-de-Abrantes/Jhonatan-Orlandi-de-Abrantes/blob/output/github-contribution-grid-cobrinha.svg)
+![Snake animation](https://github.com/Jhonatan-Orlandi-de-Abrantes/Jhonatan-Orlandi-de-Abrantes/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
