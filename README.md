@@ -1,4 +1,4 @@
-## Bem-vindo ao meu GitHub! 👋
+## 👋 Bem-vindo ao meu GitHub!
 
 ---
 
@@ -11,12 +11,24 @@
 
 ---
 
-### Linguagens
+<!-- Linguagens -->
+<div align="center" style="
+  border: 2px solid #444;
+  border-radius: 15px;
+  padding: 20px;
+  margin: 20px 0;
+  background-color: #1e1e1e;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+">
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <h3 style="color:#f34b7d;"> Linguagens</h3>
+
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </div>
+
 </div>
 
 ---
@@ -29,9 +41,18 @@
 
 ---
 
-### 📫 Contato
+<!-- Contato -->
+<div align="center" style="
+  border: 2px solid #444;
+  border-radius: 15px;
+  padding: 20px;
+  margin: 20px 0;
+  background-color: #1e1e1e;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+">
 
-<div align="center">
+  <h3 style="color:#4fa3f7;">📫 Contato</h3>
+
   <a href="mailto:jhonatanorlandi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -39,4 +60,5 @@
   <a href="https://br.linkedin.com/in/jhonatan-orlandi-de-abrantes-83b10a360" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
 </div>
