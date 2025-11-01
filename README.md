@@ -27,6 +27,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jhonatan-Orlandi-de-Abrantes/Jhonatan-Orlandi-de-Abrantes/output/github-contribution-grid-snake.svg">
 </picture>
 
+![Cobrinha animada](https://github.com/Jhonatan-Orlandi-de-Abrantes/Jhonatan-Orlandi-de-Abrantes/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ### 📫 Contato
