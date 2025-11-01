@@ -1,4 +1,8 @@
-## 👋 Hello World! Bem-vindos ao meu GitHub!
+<div align="center">
+  <img widht="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=dd0afc"/>
+</div>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sans+Code&size=23&pause=1000&color=CD00F7&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=print(%22Bem-vindos+ao+meu+GitHub!%22);print(%22Hello+World!%22)" alt="Typing SVG"/></a>
 
 ---
 
