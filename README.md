@@ -10,7 +10,6 @@
 <!-- GitHub Status -->
 <div align="center">
   <a href="https://github.com/Jhonatan-Orlandi-de-Abrantes">
-    <img height="196em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jhonatan-Orlandi-de-Abrantes&theme=midnight_purple"/>
     <img height="196em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jhonatan-Orlandi-de-Abrantes&theme=midnight_purple&utcOffset=8"/>
     <img height="196em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jhonatan-Orlandi-de-Abrantes&theme=midnight_purple"/>
   </a>
